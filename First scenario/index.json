@@ -4,11 +4,11 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1 - Scenario Structure",
+        "title": "Step 1 - Basic Information to get us started",
         "text": "step1.md"
       },
       {
-        "title": "Step 2 - Scenario Syntax",
+        "title": "Step 2 - We did it",
         "text": "step2.md"
       }
     ],
